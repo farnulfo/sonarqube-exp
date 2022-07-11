@@ -1,3 +1,4 @@
+// Class
 public class ClassWithEnum2ConstructorBad {
 
     public enum Enum2 {
